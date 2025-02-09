@@ -1,10 +1,10 @@
-# 8ball
+# gamble
 
 | Property | Value |
 |----------|-------|
-| Usage | `[question]` |
-| Cooldown | 3 seconds |
+| Usage | `<amount>` |
+| Cooldown | 10 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-All hail the mighty 8ball.
+Gamble your money

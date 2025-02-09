@@ -1,4 +1,4 @@
-# cases
+# userinfo
 
 | Property | Value |
 |----------|-------|
@@ -7,4 +7,4 @@
 | Permissions | None |
 | Guild Only | true |
 
-Shows the punishment history of a user.
+Shows detailed information about a user.

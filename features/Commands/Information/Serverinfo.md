@@ -1,10 +1,10 @@
-# ginger
+# serverinfo
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
 | Cooldown | 5 seconds |
 | Permissions | None |
-| Guild Only | false |
+| Guild Only | true |
 
-Sends a random picture of ginger!
+Shows detailed information about the server.

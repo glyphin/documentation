@@ -1,9 +1,10 @@
-## Purge
+# purge
 
-Description: Purges up to 100 messages
+| Property | Value |
+|----------|-------|
+| Usage | `<number of messages>` |
+| Cooldown | 5 seconds |
+| Permissions | PermissionFlagsBits.ManageMessages |
+| Guild Only | true |
 
-Usage: `purge <amount>`
-
-Server Only? Yes
-
-Required Permissions: Manage Messages
+Deletes a specified number of messages.

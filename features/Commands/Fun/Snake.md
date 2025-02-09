@@ -1,9 +1,10 @@
-## Snake
+# snake
 
-Description: Play a snake game inside Discord.
+| Property | Value |
+|----------|-------|
+| Usage | `No usage specified` |
+| Cooldown | 10 seconds |
+| Permissions | None |
+| Guild Only | false |
 
-Usage: `snake`
-
-Server Only? No
-
-Required Permissions: None
+Play a snake game inside discord.

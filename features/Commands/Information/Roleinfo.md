@@ -1,10 +1,10 @@
-# cases
+# roleinfo
 
 | Property | Value |
 |----------|-------|
-| Usage | `@user` |
+| Usage | `@role or role-id` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | true |
 
-Shows the punishment history of a user.
+Shows detailed information about a role.

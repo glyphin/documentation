@@ -1,10 +1,10 @@
-# ginger
+# deposit
 
 | Property | Value |
 |----------|-------|
-| Usage | `No usage specified` |
+| Usage | `<amount/all>` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Deposit money from your wallet to your bank.

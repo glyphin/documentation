@@ -1,4 +1,4 @@
-# ginger
+# shorturl
 
 | Property | Value |
 |----------|-------|
@@ -7,4 +7,4 @@
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Shortens a URL using TinyURL

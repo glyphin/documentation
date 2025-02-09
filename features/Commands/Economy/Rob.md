@@ -1,10 +1,10 @@
-# 8ball
+# rob
 
 | Property | Value |
 |----------|-------|
-| Usage | `[question]` |
-| Cooldown | 3 seconds |
+| Usage | `<@user>` |
+| Cooldown | 300 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-All hail the mighty 8ball.
+Attempt to rob another user

@@ -1,10 +1,10 @@
-# ban
+# unban
 
 | Property | Value |
 |----------|-------|
-| Usage | `@user <reason> d:[time m/d/w/y]` |
+| Usage | `<user_id/punishment_id> [reason]` |
 | Cooldown | 5 seconds |
 | Permissions | PermissionFlagsBits.BanMembers |
 | Guild Only | true |
 
-Bans a user.
+Unbans a user using their ID or punishment ID.

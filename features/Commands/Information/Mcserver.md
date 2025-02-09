@@ -1,10 +1,10 @@
-# ginger
+# mcserver
 
 | Property | Value |
 |----------|-------|
-| Usage | `No usage specified` |
+| Usage | `<server ip>` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Shows information about a Minecraft server

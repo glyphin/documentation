@@ -1,10 +1,10 @@
-# ginger
+# work
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
-| Cooldown | 5 seconds |
+| Cooldown | 3600 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Work to earn some money.

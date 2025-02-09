@@ -1,10 +1,10 @@
-# ginger
+# tictactoe
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
-| Cooldown | 5 seconds |
+| Cooldown | 10 seconds |
 | Permissions | None |
-| Guild Only | false |
+| Guild Only | true |
 
-Sends a random picture of ginger!
+Play tic tac toe inside discord.

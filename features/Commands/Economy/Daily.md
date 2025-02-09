@@ -1,10 +1,10 @@
-# ginger
+# daily
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
-| Cooldown | 5 seconds |
+| Cooldown | 86400 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Claim your daily reward

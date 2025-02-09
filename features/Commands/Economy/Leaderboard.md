@@ -1,10 +1,10 @@
-# ginger
+# leaderboard
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
-| Cooldown | 5 seconds |
+| Cooldown | 10 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+View the server

@@ -1,10 +1,10 @@
-# ginger
+# withdraw
 
 | Property | Value |
 |----------|-------|
-| Usage | `No usage specified` |
+| Usage | `<amount/all>` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Withdraw money from your bank to your wallet.

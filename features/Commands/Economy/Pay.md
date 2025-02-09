@@ -1,10 +1,10 @@
-# ginger
+# pay
 
 | Property | Value |
 |----------|-------|
-| Usage | `No usage specified` |
+| Usage | `<@user> <amount>` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Pay another user from your wallet

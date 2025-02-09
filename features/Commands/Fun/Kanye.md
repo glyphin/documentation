@@ -1,10 +1,10 @@
-# ginger
+# kanye
 
 | Property | Value |
 |----------|-------|
 | Usage | `No usage specified` |
-| Cooldown | 5 seconds |
+| Cooldown | 3 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Random Kanye quotes!

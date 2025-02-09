@@ -1,10 +1,10 @@
-# kick
+# unmute
 
 | Property | Value |
 |----------|-------|
 | Usage | `@user <reason>` |
 | Cooldown | 5 seconds |
-| Permissions | PermissionFlagsBits.KickMembers |
+| Permissions | PermissionFlagsBits.ModerateMembers |
 | Guild Only | true |
 
-Kicks a user from the server.
+Remove timeout/unmute a user.

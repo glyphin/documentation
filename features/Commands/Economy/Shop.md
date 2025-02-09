@@ -1,10 +1,10 @@
-# ginger
+# shop
 
 | Property | Value |
 |----------|-------|
-| Usage | `No usage specified` |
+| Usage | `OR buy <item_id> [quantity]` |
 | Cooldown | 5 seconds |
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+View the server

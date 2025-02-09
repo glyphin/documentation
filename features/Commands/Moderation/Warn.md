@@ -1,10 +1,10 @@
-# ban
+# warn
 
 | Property | Value |
 |----------|-------|
 | Usage | `@user <reason> d:[time m/d/w/y]` |
 | Cooldown | 5 seconds |
-| Permissions | PermissionFlagsBits.BanMembers |
+| Permissions | PermissionFlagsBits.ModerateMembers |
 | Guild Only | true |
 
-Bans a user.
+Warns a user.

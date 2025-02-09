@@ -1,4 +1,4 @@
-# ginger
+# ping
 
 | Property | Value |
 |----------|-------|
@@ -7,4 +7,4 @@
 | Permissions | None |
 | Guild Only | false |
 
-Sends a random picture of ginger!
+Check the bot
